@@ -1,1 +1,2 @@
 Hi World
+This is a merge conflict test file
