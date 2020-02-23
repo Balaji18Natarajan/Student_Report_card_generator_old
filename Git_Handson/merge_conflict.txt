@@ -1,1 +1,1 @@
-Example file in master
+Merge Conflict example file in test branch
